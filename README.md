@@ -1,6 +1,10 @@
 ### Code for *Learning idiolectal style variation in online register*  
 To appear in EMNLP 2021 main conference.
 
+#### Enviornment
+python >= 3.7
+transformers >= 4.4
+torch >= 1.7
 
 #### Data & Pre-trained weights
 The data and pre-trained models used in the study can be found [here](https://drive.google.com/drive/folders/1yIK56tYtFSeJxPWb8RujdGmkJGq4b67_?usp=sharing).

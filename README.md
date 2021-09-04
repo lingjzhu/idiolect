@@ -1,7 +1,7 @@
 ### Code for *Learning idiolectal style variation in online register*  
 To appear in EMNLP 2021 main conference.
 
-#### Enviornment
+#### Requirements
 python >= 3.7  
 transformers >= 4.4  
 torch >= 1.7  

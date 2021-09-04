@@ -2,10 +2,9 @@
 To appear in EMNLP 2021.
 
 
-#### Data
-The data used in the study can be found here.
+#### Data & Pre-trained weights
+The data and pre-trained models used in the study can be found here.
 
-#### Pre-trained weights
 
 #### Training a model
 

@@ -11,8 +11,6 @@ The data and pre-trained models used in the study can be found [here](https://dr
 
 
 #### Training a model
-```
-python model_roberta_self_attention.py  --training_data ./authorship/Amazon_train_contrastive --develop_data ./authorship/Amazon_dev_contrastive --train --tau_low 0.4 --tau_high 0.6 --loss modified_anchor --mask_prob 0.1 --test_data ./authorship/Amazon_test_contrastive --test --save_test_data --distance cosine --epochs 6 --alpha 30 
-```
+```python model_roberta_self_attention.py  --training_data ./authorship/Amazon_train_contrastive --develop_data ./authorship/Amazon_dev_contrastive --train --tau_low 0.4 --tau_high 0.6 --loss modified_anchor --mask_prob 0.1 --test_data ./authorship/Amazon_test_contrastive --test --save_test_data --distance cosine --epochs 6 --alpha 30 ```
 
 #### Evaluating style embeddings

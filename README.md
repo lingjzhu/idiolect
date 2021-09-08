@@ -1,5 +1,5 @@
-### *Learning idiolectal style variation in online register*  
-To appear in EMNLP 2021 main conference.
+### *Idiosyncratic but not Arbitrary: Learning Idiolects in Online Registers Reveals Distinctive yet Consistent Individual Styles*  
+To appear in EMNLP 2021 main conference. [arXiv](https://arxiv.org/abs/2109.03158)  
 
 #### Requirements
 python >= 3.7  

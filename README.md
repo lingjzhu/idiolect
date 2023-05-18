@@ -3,7 +3,7 @@ To appear in EMNLP 2021 main conference. [arXiv](https://arxiv.org/abs/2109.0315
 
 #### Requirements
 python >= 3.7  
-transformers >= 4.4  
+transformers >= 4.0  
 torch >= 1.7  
 
 #### Data & Pre-trained weights
